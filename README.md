@@ -2,8 +2,8 @@ Template for Scala projects published to Sonatype / Maven Central.
 
 Use `sbt new augustnagro/smaven.g8` to create a minimal template with:
 
-* [Scala][scala] (2.12.1)
-* [SBT][sbt] (>= 0.13.13)
+* [Scala][scala] (2.12.2)
+* [SBT][sbt] (>= 0.13.15)
 * [ScalaCheck][scheck] (latest release)
 * Publishing configuration
 

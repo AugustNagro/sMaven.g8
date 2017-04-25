@@ -47,5 +47,6 @@ scalacOptions ++= Seq(
   "-Ywarn-value-discard",
   "-Ywarn-unused",
   "-feature",
-  "-Xlint"
+  "-Xlint",
+  "-Ypartial-unification"
 )
